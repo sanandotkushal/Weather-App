@@ -1,0 +1,3 @@
+https://api.openweathermap.org/data/4.0/onecall/current?lat={lat}&lon={lon}&appid={API key}
+
+https://openweathermap.org/img/wn/${VALUE}@2x.png
